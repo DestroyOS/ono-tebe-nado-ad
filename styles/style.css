@@ -121,7 +121,9 @@ header {
     min-height: 596px;
     display: flex;
     flex-direction: column;
-    flex: 1 1 calc(33.333% - 25px); 
+    flex: 1 1 calc(
+        33.333% - 25px
+    ); 
 }
 
 .card-link {
